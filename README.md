@@ -1,9 +1,9 @@
 ## Team Members
-Yuxiang Qian 
+Yuxiang Qian email: yuxiangq@uci.edu
 
-Xiaolei Jiang
+Xiaolei Jiang email: xiaolej@uci.edu
 
-Jeffrey Eric Su
+Jeffrey Eric Su email: jesu@uci.edu
 
 
 
@@ -30,5 +30,5 @@ Jeffrey Eric Su
 ### Appointment date/time
 
 ```content
-1
+Our appointment will be on 1/31 Friday 10:30 am at DBH 4064
 ```
