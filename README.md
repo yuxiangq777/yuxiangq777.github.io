@@ -11,7 +11,7 @@ Jeffrey Eric Su email: jesu@uci.edu
 
 ### Summary
 
-In our project, there will be different mazes, and our project goal is to reach the terminal points of them and get out of those mazes. Our project takes the 3*3 blocks around the AI as input, and the output is a sequence of action the AI should take.
+In our project, there will be different mazes, and our project goal is to reach the terminal points of them and get out of those mazes. Our project takes the 3*3 blocks around the AI in each step as input, and the output is a sequence of action the AI should take.
 
 ### Evaluation Plan
 
