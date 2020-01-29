@@ -22,14 +22,14 @@ In our project, there will be different mazes, and our project goal is to reach 
 ### Goals
 
 ```content
-Goal 1: Find a Diamond Block within 100 minecraft days.
-Milestone 1: Craft a stone pickaxe (would need to first obtain wood -> wood pickaxe -> stone)
-Milesteon 2: Begin searching/mining for diamonds.
-Goal 2: Find a Diamond Block and mine it to obtain an diamond in 50 minecraft days.
-Milestone 1: Locate a diamond within 50 minecraft days
-Milestone 2: Obtain iron and craft iron pick
-Goal 3: Find enough diamonds to make a diamond chestplate (8 diamonds needed) in 25 minecraft days.
-Milestone 1: Find diamonds in 25 minecraft days.
+Goal 1: Be able to solve simple mazes. A simple maze would be a maze that has one solution.
+Milestone 1: Be able to solve simple mazes in unlimited time.
+Milestone 2: Be able to solve simple mazes in under 5 minutes or within 50 actions.
+Goal 2: Be able to solve medium level mazes. Medium mazes would include multiple looping mazes or one direction passages.
+Milestone 1: Be able to solve the medium maze.
+Milestone 2: Be able to solve the medium mazes in under 5 mintues and within 100 actions.
+Goal 3: Be able to solve hard level mazes. Hard mazes would include unsolvable mazes, mobs to block paths.
+Milestone 1: Be able to detech unsolvable mazes.
 ```
 
 ### Appointment date/time
