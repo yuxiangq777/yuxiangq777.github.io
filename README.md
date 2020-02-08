@@ -41,5 +41,5 @@ Milestone 1: Be able to detect unsolvable mazes/solve with above 70% success rat
 ### Appointment date/time
 
 ```content
-Our next appointment will be on 2/7 Friday 10:15 am at DBH 4064
+Our next appointment will be on 2/14 Friday 10:15 am at DBH 4064
 ```
