@@ -21,25 +21,25 @@ In our project, there will be different mazes, and our project goal is that our 
 
 ### Goals
 
-Goal 1: Be able to solve simple mazes. A simple maze would be a maze that has one solution without any obstacle.
+Goal 1: Be able to solve simple mazes (small size, a few obstacles like lava in random positions).
 
-Milestone 1: Be able to solve simple mazes with a 70% success rate.
+Milestone 1: Be able to solve simple mazes with above 70% success rate.
 
-Milestone 2: Be able to solve simple mazes in under 5 minutes or within 50 actions.
+Milestone 2: Be able to solve simple mazes in under 1 minute or within 50 actions.
 
-Goal 2: Be able to solve medium level mazes. Medium mazes would include multiple looping mazes, many obstacles like lava or one directional passages.
+Goal 2: Be able to solve medium level mazes. Medium mazes would include multiple looping mazes, many types of obstacles including zombies, lava.
 
-Milestone 1: Be able to solve the medium maze with a 70% success rate.
+Milestone 1: Be able to solve the medium maze with above 70% success rate.
 
-Milestone 2: Be able to solve the medium mazes in under 5 minutes and within 100 actions.
+Milestone 2: Be able to solve the medium mazes in under 1 minutes and within 100 actions.
 
 Goal 3: Be able to solve hard level mazes. Hard mazes would include unsolvable mazes, mobs to block paths.
 
-Milestone 1: Be able to detect unsolvable mazes/solve with a 70% success rate.
+Milestone 1: Be able to detect unsolvable mazes/solve with above 70% success rate.
 
 
 ### Appointment date/time
 
 ```content
-Our appointment will be on 1/31 Friday 10:30 am at DBH 4064
+Our next appointment will be on 2/7 Friday 10:15 am at DBH 4064
 ```
