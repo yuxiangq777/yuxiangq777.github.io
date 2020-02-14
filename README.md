@@ -5,7 +5,10 @@ Xiaolei Jiang email: xiaolej@uci.edu
 
 Jeffrey Eric Su email: jesu@uci.edu
 
-
+## GitHub Repo
+```
+https://github.com/yuxiangq777/175project.git
+```
 
 ## Project Proposal
 
