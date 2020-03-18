@@ -40,4 +40,7 @@ Goal 3: Be able to solve hard level mazes. Hard mazes are twelve by twelve mazes
 
 Milestone 1: Be able to detect unsolvable mazes/solve with above 70% success rate.
 
+### Video
+https://www.youtube.com/watch?v=19KZK7K41z4
+
 
