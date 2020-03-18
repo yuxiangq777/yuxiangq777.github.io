@@ -44,6 +44,8 @@ Milestone 1: Be able to detect unsolvable mazes/solve with above 70% success rat
 https://www.youtube.com/watch?v=19KZK7K41z4
 
 ### Progress Report
-<a href="https://yuxiangq777.github.io/175 progress report.pdf" target="_blank">PDF.</a>
+<a href="https://yuxiangq777.github.io/175 progress report.pdf" target="_blank">Link</a>
 
+### Presentation
+<a href="https://yuxiangq777.github.io/175 presentation.pdf" target="_blank">Link</a>
 
